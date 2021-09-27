@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Unsplashed-api/static/css/main.3e4f0a56.chunk.css",
+    "main.js": "/Unsplashed-api/static/js/main.bd6c2fc9.chunk.js",
+    "main.js.map": "/Unsplashed-api/static/js/main.bd6c2fc9.chunk.js.map",
+    "runtime-main.js": "/Unsplashed-api/static/js/runtime-main.27c843f5.js",
+    "runtime-main.js.map": "/Unsplashed-api/static/js/runtime-main.27c843f5.js.map",
+    "static/css/2.f2512455.chunk.css": "/Unsplashed-api/static/css/2.f2512455.chunk.css",
+    "static/js/2.813d21e5.chunk.js": "/Unsplashed-api/static/js/2.813d21e5.chunk.js",
+    "static/js/2.813d21e5.chunk.js.map": "/Unsplashed-api/static/js/2.813d21e5.chunk.js.map",
+    "index.html": "/Unsplashed-api/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Unsplashed-api/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.3e4f0a56.chunk.css.map": "/Unsplashed-api/static/css/main.3e4f0a56.chunk.css.map",
+    "static/js/2.813d21e5.chunk.js.LICENSE.txt": "/Unsplashed-api/static/js/2.813d21e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c843f5.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.813d21e5.chunk.js",
+    "static/css/main.3e4f0a56.chunk.css",
+    "static/js/main.bd6c2fc9.chunk.js"
+  ]
+}
